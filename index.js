@@ -15,9 +15,9 @@ var xml = require('xml2js');
  * * structure:
  * [
  *    {
- *       "classId": "SS1RegistrationForm",
- *       "objectId": "{D1616414-6A9E-461E-9476-A5303E5EF5A5}",
- *       "objectStore": "{F8135C1E-032E-47D4-A890-8CD0FC7D0508}"
+ *       "classId": "SomeDocument",
+ *       "objectId": "{Q1123414-6A9E-461E-9476-A5303E5EF5A5}",
+ *       "objectStore": "{234FH-032E-47D4-A890-8CDSDFGD0508}"
  *     },
  *   ...
  * ]
